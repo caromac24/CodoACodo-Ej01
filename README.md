@@ -1,2 +1,2 @@
 # CodoACodo-Ej01
-Ejercicios JS
+Todos los ejercicios fueron resueltos
